@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "ARMOR-FLD: Face Landmark Detection Under Adverse Conditions with a Reliability-Modulated ORFormer"
+authors:
+  - family-names: Rakshit
+    given-names: Sayan
+year: 2026
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/USER/armor-fld"
+keywords:
+  - facial landmark detection
+  - occlusion
+  - robustness
+  - ORFormer
+  - STAR loss
+  - test-time adaptation
+  - WFLW

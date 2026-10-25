@@ -209,7 +209,7 @@ learning rate were tried; single-frame only.
   title  = {ARMOR-FLD: Face Landmark Detection Under Adverse Conditions with a Reliability-Modulated ORFormer},
   author = {Rakshit, Sayan},
   year   = {2026},
-  url    = {https://github.com/USER/armor-fld}
+  url    = {https://github.com/SayanRakshit/armor-fld}
 }
 ```
 

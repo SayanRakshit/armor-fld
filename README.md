@@ -12,8 +12,7 @@ conditions by 30 % (mean WFLW-C NME **9.74 %** vs 13.97 % without the bank) at *
 (5.52 % vs 5.54 % NME on WFLW), with an 8.2 M-parameter model trained for 75 minutes on a Colab T4.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USER/armor-fld/blob/main/notebooks/ARMOR_FLD_colab.ipynb)
-&nbsp;·&nbsp; `notebooks/ARMOR_FLD_colab.ipynb` (replace `USER` with your GitHub user name after you push)
-
+&nbsp;·&nbsp; `notebooks/ARMOR_FLD_colab.ipynb`
 ---
 
 ## What is new
